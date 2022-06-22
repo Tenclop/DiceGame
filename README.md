@@ -13,6 +13,8 @@
 ## About
   <p>
   As the name sais, it’s a dice game! I made this to practice DOM manipulation and it ended being something fun.
+  
+  <a href="https://dice-game-sihlanic.netlify.app">Live demo!</a>
   </p>
 
 ## Rules:
